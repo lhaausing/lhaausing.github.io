@@ -8,6 +8,13 @@ main:
     code: https://github.com/deep-spin/doce
     image: ./assets/img/doce.png
 
+  - title: "Uncertainty in Natural Language Generation: From Theory to Applications"
+    authors: Joris Baan*, Nico Daheim*, Evgenia Ilia1*, Dennis Ulmer*, <strong>Haau-Sing Li</strong>, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz
+    conference_short: Preprint
+    conference: Preprint
+    pdf: https://arxiv.org/pdf/2307.15703
+    image: ./assets/img/uncertainty_survey.png
+
   - title: Python Code Generation by Asking Clarification Questions
     authors: <strong>Haau-Sing Li</strong>, Mohsen Mesgar, André F. T. Martins, Iryna Gurevych
     conference_short: ACL 2023
@@ -15,13 +22,6 @@ main:
     pdf: https://aclanthology.org/2023.acl-long.799.pdf
     code: https://github.com/UKPLab/codeclarqa
     image: ./assets/img/codeclarqa.png
-
-  - title: "Uncertainty in Natural Language Generation: From Theory to Applications"
-    authors: Joris Baan*, Nico Daheim*, Evgenia Ilia1*, Dennis Ulmer*, <strong>Haau-Sing Li</strong>, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz
-    conference_short: Preprint
-    conference: Preprint
-    pdf: https://arxiv.org/pdf/2307.15703
-    image: ./assets/img/uncertainty_survey.png
 
   - title: When Do You Need Billions of Words of Pretraining Data?
     authors: Yian Zhang*, Alex Warstadt*, <strong>Haau-Sing Li</strong>, Samuel R. Bowman
