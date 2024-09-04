@@ -15,7 +15,9 @@ Before joining the ELLIS PhD program, I finished my master's degree at **Center 
 - **[Oct. 2024]** I will give a talk about our paper [DOCE](https://www.arxiv.org/abs/2408.13745) at [SOAR Lab](https://soarlab.org/), Singapore Management University.
 - **[Aug. 2024]** We release [DOCE](https://www.arxiv.org/abs/2408.13745), a framework of execution-based code generation that includes candidate generation, reranking and self-debugging, with state-of-the-art performance.
 - **[Aug. 2024]** I attended ACL 2024 in Bangkok, Thailand.
+- **[July 2024]** I finished my ELLIS PhD exchange at IT with amazing people to work with and talk to!
 - **[July 2023]** I attended the 13th Lisbon Machine Learning School (LxMLS 2023) as a moderator.
+- **[July 2023]** I started my ELLIS PhD exchange at IT!
 - **[July 2023]** I attended ACL 2023 virtually.
 - **[May 2023]** One paper accepted to ACL 2023.
 - **[Sept. 2022]** I attended the ELLIS Doctoral Symposium 2022 in Alicante, Spain.
