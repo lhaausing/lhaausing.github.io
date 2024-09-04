@@ -2,7 +2,7 @@ main:
 
   - title: "DOCE: Finding the Sweet Spot for Execution-Based Code Generation"
     authors: <strong>Haau-Sing Li</strong>, Patrick Fernandes, Iryna Gurevych, André F. T. Martins
-    conference_short: preprint
+    conference_short: Preprint
     conference: Preprint
     pdf: https://arxiv.org/pdf/2408.13745
     code: https://github.com/deep-spin/doce
