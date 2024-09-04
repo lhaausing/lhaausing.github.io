@@ -4,7 +4,7 @@ main:
     authors: <strong>Haau-Sing Li</strong>, Patrick Fernandes, Iryna Gurevych, André F. T. Martins
     conference_short: preprint
     conference: Preprint
-    pdf: https://arxiv.org/pdf/2408.13745/
+    pdf: https://arxiv.org/pdf/2408.13745
     code: https://github.com/deep-spin/doce
     image: ./assets/img/doce.png
 
