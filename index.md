@@ -4,6 +4,8 @@ layout: homepage
 
 ## About Me
 
+Hi this is Haau-Sing Li/Xiaocheng Li/李效丞/이효성!
+
 I am currently a [ELLIS PhD](https://ellis.eu/phd-postdoc) student at [UKP Lab](https://www.ukp.tu-darmstadt.de/), **Technische Universität Darmstadt**, and [SARDINE Lab](https://sardine-lab.github.io/), **Instituto de Telecomunicações**. I'm fortunate to be advised by **Iryna Gurevych** and **André Martins**. My research revolves around the study of **code generation, reranking, and test-time improvement of language models**. Generally, I'm interested in aligning code generation with human preferences regarding correctness, API usage, performance, and more. I believe that the domain knowledge of code generation can be used to improve the performance of language models with respect to reasoning, problem-solving, agent-related tasks, and more.
 
 Before joining the ELLIS PhD program, I finished my master's degree at **Center for Data Science, New York University**, where I worked with **Alex Warstadt** and **Sam Bowman** on natural language understanding and **Narges Razavian** on medical NLP. I have my bachelor's degree at **Renmin University of China**.
