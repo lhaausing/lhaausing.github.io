@@ -10,8 +10,9 @@ Before joining the ELLIS PhD program, I finished my master's degree at Center fo
 
 ## News
 
-- **[August 2024]** We release [DOCE](https://www.arxiv.org/abs/2408.13745), a framework of execution-based code generation that includes candidate generation, reranking and self-debugging, with state-of-the-art performance.
-- **[July 2024]** I attended ACL 2024 in Bangkok, Thailand.
+- **[Aug. 2024]** We release [DOCE](https://www.arxiv.org/abs/2408.13745), a framework of execution-based code generation that includes candidate generation, reranking and self-debugging, with state-of-the-art performance.
+- **[Aug. 2024]** I attended ACL 2024 in Bangkok, Thailand.
+- **[July 2023]** I attended ACL 2023 virtually.
 - **[May 2023]** One paper accepted to ACL 2023.
 - **[Sept. 2022]** I attended the ELLIS Doctoral Symposium 2022 in Alicante, Spain.
 - **[Sept. 2021]** I attended the ELLIS Doctoral Symposium 2021 in Tübingen, Germany.
