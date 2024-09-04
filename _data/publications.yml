@@ -2,6 +2,7 @@ main:
 
   - title: "DOCE: Finding the Sweet Spot for Execution-Based Code Generation"
     authors: <strong>Haau-Sing Li</strong>, Patrick Fernandes, Iryna Gurevych, André F. T. Martins
+    conference_short: preprint
     conference: Preprint
     pdf: https://arxiv.org/pdf/2408.13745/
     code: https://github.com/deep-spin/doce
@@ -9,7 +10,7 @@ main:
 
   - title: Python Code Generation by Asking Clarification Questions
     authors: <strong>Haau-Sing Li</strong>, Mohsen Mesgar, André F. T. Martins, Iryna Gurevych
-    conference_short: ACL
+    conference_short: ACL 2023
     conference: Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, 2023.
     pdf: https://aclanthology.org/2023.acl-long.799.pdf
     code: https://github.com/UKPLab/codeclarqa
@@ -17,7 +18,7 @@ main:
 
   - title: When Do You Need Billions of Words of Pretraining Data?
     authors: Yian Zhang*, Alex Warstadt*, <strong>Haau-Sing Li</strong>, Samuel R. Bowman
-    conference_short: ACL
+    conference_short: ACL 2021
     conference: Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics, 2021.
     pdf: https://aclanthology.org/2021.acl-long.90.pdf
     code: https://github.com/nyu-mll/pretraining-learning-curves
@@ -25,7 +26,7 @@ main:
 
   - title: "Learning Which Features Matter: RoBERTa Acquires a Preference for Linguistic Generalizations (Eventually)"
     authors: Alex Warstadt, Yian Zhang, <strong>Haau-Sing Li</strong>, Haokun Liu, Samuel R. Bowman
-    conference_short: EMNLP
+    conference_short: EMNLP 2020
     conference: Proceedings of the Conference on Empirical Methods in Natural Language Processing, 2020.
     pdf: https://aclanthology.org/2020.emnlp-main.16.pdf
     code: https://github.com/nyu-mll/msgs/
