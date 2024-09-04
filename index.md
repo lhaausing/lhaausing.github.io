@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a [ELLIS PhD](https://ellis.eu/phd-postdoc) student at UKP Lab, Technische Universität Darmstadt and SARDINE Lab, Instituto de Telecomunicações. I'm fortunate to be advised by Iryna Gurevych and André Martins. My research revolves around the study of code generation, reranking, and test-time improvement of language models. Generally, I'm interested in aligning code generation with human preferences regarding correctness, API usage, performance, and more. I believe that the domain knowledge of code generation can be used to improve the performance of language models with respect to reasoning, problem-solving, agent-related tasks, and more.
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Before joining the ELLIS PhD program, I finished my master's degree at Center for Data Science, New York University, where I worked with Alex Warstadt and Sam Bowman on natural language understanding. I have my bachelor's degree at Renmin University of China.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[August 2024]** We release [DOCE](https://www.arxiv.org/abs/2408.13745), a framework of execution-based code generation that includes candidate generation, reranking and self-debugging, with state-of-the-art performance.
+- **[July 2024]** I attended ACL 2024 in Bangkok, Thailand.
+- **[May 2023]** One paper accepted to ACL 2023.
+- **[Sept. 2022]** I attended the ELLIS Doctoral Symposium 2022 in Alicante, Spain.
+- **[Sept. 2021]** I attended the ELLIS Doctoral Symposium 2021 in Tübingen, Germany.
+- **[May 2021]** One paper accepted to ACL 2021.
+- **[Sept. 2020]** One paper accepted to EMNLP 2020.
 
 {% include_relative _includes/publications.md %}
 
