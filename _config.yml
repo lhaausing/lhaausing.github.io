@@ -1,7 +1,7 @@
 # Basic Information 
 title: Haau-Sing Li
 position: PhD Student
-affiliation: ELLIS, TUDa🇩🇪, IT🇵🇹
+affiliation: ELLIS (TUDa & IT)
 email: hli (at) ukp.tu-darmstadt.de
 
 # Search Engine Optimization (SEO)
@@ -20,7 +20,7 @@ twitter: https://twitter.com/LHaausing
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/new_avatar.png
+avatar: ./assets/img/avatar_portugal.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
