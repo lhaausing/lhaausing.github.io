@@ -1,12 +1,5 @@
 main:
 
-  - title: "Reranking Laws for Language Generation: A Communication-Theoretic Perspective"
-    authors: António Farinhas, <strong>Haau-Sing Li</strong>, André F. T. Martins
-    conference_short: Preprint
-    conference: Preprint
-    pdf: https://arxiv.org/pdf/2409.07131
-    image: ./assets/img/reranking_laws.png
-
   - title: "DOCE: Finding the Sweet Spot for Execution-Based Code Generation"
     authors: <strong>Haau-Sing Li</strong>, Patrick Fernandes, Iryna Gurevych, André F. T. Martins
     conference_short: Preprint
@@ -14,6 +7,13 @@ main:
     pdf: https://arxiv.org/pdf/2408.13745
     code: https://github.com/deep-spin/doce
     image: ./assets/img/doce.png
+
+  - title: "Reranking Laws for Language Generation: A Communication-Theoretic Perspective"
+    authors: António Farinhas, <strong>Haau-Sing Li</strong>, André F. T. Martins
+    conference_short: NeurIPS 2024
+    conference: the Thirty-Eighth Annual Conference on Neural Information Processing Systems, 2024.
+    pdf: https://arxiv.org/pdf/2409.07131
+    image: ./assets/img/reranking_laws.png
 
   - title: "Uncertainty in Natural Language Generation: From Theory to Applications"
     authors: Joris Baan*, Nico Daheim*, Evgenia Ilia1*, Dennis Ulmer*, <strong>Haau-Sing Li</strong>, Raquel Fernández, Barbara Plank, Rico Sennrich, Chrysoula Zerva, Wilker Aziz
