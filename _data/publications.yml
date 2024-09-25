@@ -11,7 +11,7 @@ main:
   - title: "Reranking Laws for Language Generation: A Communication-Theoretic Perspective"
     authors: António Farinhas, <strong>Haau-Sing Li</strong>, André F. T. Martins
     conference_short: NeurIPS 2024
-    conference: the Thirty-Eighth Annual Conference on Neural Information Processing Systems, 2024.
+    conference: Thirty-Eighth Annual Conference on Neural Information Processing Systems, 2024. (Spotlight)
     pdf: https://arxiv.org/pdf/2409.07131
     image: ./assets/img/reranking_laws.png
 
