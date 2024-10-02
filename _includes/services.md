@@ -3,10 +3,10 @@
 <h4 style="margin:0 10px 0;">Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  ICLR: <li><a href="https://iclr.cc/"><autocolor>2024</autocolor></a></li>
-  EMNLP: <li><a href="https://2024.emnlp.org/"><autocolor>2024</autocolor></a></li>
-  ACL: <li><a href="https://2024.aclweb.org/"><autocolor>2024</autocolor></a></li>
-  LREC-COLING: <li><a href="https://lrec-coling-2024.org/"><autocolor>2024</autocolor></a></li>
+  <li>ICLR: <a href="https://iclr.cc/">2024</a></li>
+  <li>EMNLP: <a href="https://2024.emnlp.org/">2024</a></li>
+  <li>ACL: <a href="https://2024.aclweb.org/">2024</a></li>
+  <li>LREC-COLING: <a href="https://lrec-coling-2024.org/">2024</a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching</h4>
